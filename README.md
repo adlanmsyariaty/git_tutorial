@@ -1,3 +1,4 @@
 # generate new repo
 
-1. Another first commit
+1. first commit
+2. second commit
